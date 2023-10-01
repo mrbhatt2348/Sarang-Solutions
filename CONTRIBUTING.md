@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing to Sarnag Solutions
 
-Thank you for considering contributing to [Your Project Name]! We welcome contributions from the community to help improve and grow our project. Please take a moment to read this guide to understand how you can contribute.
+Thank you for considering contributing to Sarang Solutions! We welcome contributions from the community to help improve and grow our project. Please take a moment to read this guide to understand how you can contribute.
 
 ## How to Contribute
 
