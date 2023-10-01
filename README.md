@@ -1,6 +1,6 @@
 # Sarang Solutions
 
-www.sarangsolutions.com/images/logo.png
+www.sarangsolutions.com
 
 Welcome to Sarang Solutions! We are an innovative IT solutions company dedicated to delivering cutting-edge technology solutions to businesses of all sizes. This README provides an overview of our company and its offerings.
 
